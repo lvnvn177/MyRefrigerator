@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct iOS_base_appApp: App {
+struct MyFrigeratorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
